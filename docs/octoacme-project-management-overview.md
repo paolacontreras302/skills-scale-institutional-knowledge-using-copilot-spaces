@@ -17,8 +17,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
+- UX Designer: designs user flows, prototypes, and ensures usability and accessibility.
 - QA/Testing: validate quality and acceptance criteria.
+- DevOps Engineer: manages CI/CD pipelines, infrastructure, and incident response.
+- Customer Success Lead: drives adoption, onboarding, and post-launch feedback loops.
+- Data Analyst: provides metrics, dashboards, and data-driven insights.
 - Stakeholders: provide inputs and approvals.
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for full role definitions and [Cross-Functional Handoffs Checklist](octoacme-cross-functional-handoffs-checklist.md) for handoff guidance between roles.
 
 ## Key Artifacts
 - Project Charter / One-pager
